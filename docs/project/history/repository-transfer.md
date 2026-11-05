@@ -6,6 +6,7 @@
 **Source project path:** `/Users/alissonvale/.mirror-journeys/vida-criativa/nautilus/agentic-method`
 **Destination project path:** `/Users/alissonvale/.mirror-journeys/vida-tecnica/ia-agentica/mirror-mind-ai/nautilus`
 **GitHub repository:** `mirror-mind-ai/nautilus`
+**Renamed (2026-11-05):** `mirror-mind-ai/nautilus-framework`. Nautilus became the name of a family (a framework, an app and a protocol), and this repository is its framework; `mirror-mind-ai/nautilus` will present the family. The app repository was renamed `mirror-mind-ai/nautilus-app` the same day.
 
 ## Transfer Intent
 
