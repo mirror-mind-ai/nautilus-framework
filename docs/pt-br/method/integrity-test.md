@@ -21,7 +21,7 @@ Uma Missão minimamente inteira responde quatro perguntas:
 
 Além dessas quatro perguntas, a versão experimental aplica duas verificações de reconhecimento:
 
-- Method, Protocol, Mirror Extension e Harness conseguem reconhecer os mesmos campos mínimos?
+- Framework, App e Protocol conseguem reconhecer os mesmos campos mínimos?
 - isso é uma Missão ou é apenas uma tarefa dentro de um quadro assumido?
 
 ## Critério de passagem
@@ -50,7 +50,7 @@ Leitura pelo teste:
 
 | Causa ou verificação | Resposta |
 | --- | --- |
-| Material | O contexto mínimo é a primeira câmara de formulação de Missões no método Nautilus, com um artefato YAML simples como materialidade inicial |
+| Material | O contexto mínimo é a primeira câmara de formulação de Missões no framework Nautilus, com um artefato YAML simples como materialidade inicial |
 | Formal | Formular a primeira Missão Nautilus |
 | Eficiente | Apenas formulação está autorizada; o status é `formulated` |
 | Final | Provar que Nautilus consegue nomear intenção antes de execução |

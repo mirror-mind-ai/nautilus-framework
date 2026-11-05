@@ -16,7 +16,7 @@ grammar_status: experimental
 
 This version is experimental because it does not yet intend to stabilize the complete ontology. It stabilizes a first surface of language to allow reading, experimentation, and common recognition among the Nautilus Family bodies.
 
-`method_version` remains the compatibility field used by the Protocol. It is not a claim that the Framework is still named a method.
+`method_version` remains the compatibility field used by the Protocol. It does not retain the Framework's former name.
 
 ## Nominal family
 

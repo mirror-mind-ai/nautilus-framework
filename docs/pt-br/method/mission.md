@@ -102,7 +102,7 @@ Uma Missão ainda não está inteira quando:
 
 O principal anti-padrão é contrabandear execução para dentro da formulação.
 
-Exemplo: uma Missão que já contém plano detalhado, atribuição de papéis, critérios finais, evidências e fechamento pode ser valiosa, mas excede a fatia atual. Ela deve ser decomposta ou aguardada até que o método tenha câmaras capazes de sustentá-la.
+Exemplo: uma Missão que já contém plano detalhado, atribuição de papéis, critérios finais, evidências e fechamento pode ser valiosa, mas excede a fatia atual. Ela deve ser decomposta ou aguardada até que o framework tenha câmaras capazes de sustentá-la.
 
 Um segundo anti-padrão é inflar tarefas em Missões. Uma tarefa grande continua sendo tarefa quando apenas executa uma parte de um quadro. Uma Missão pequena continua sendo Missão quando sustenta responsabilidade por um movimento completo de Realização.
 
@@ -116,4 +116,4 @@ Essa prática preserva a natureza conversacional dos ambientes agênticos. O hum
 
 ## Próxima evolução
 
-A próxima evolução da Missão deve esclarecer quando uma Missão formulada se torna pronta para execução e quais campos entram sem quebrar a correspondência entre Method, Protocol, Mirror Extension e Harness.
+A próxima evolução da Missão deve esclarecer quando uma Missão formulada se torna pronta para execução e quais campos entram sem quebrar a correspondência entre Framework, App e Protocol.

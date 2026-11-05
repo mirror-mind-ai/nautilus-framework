@@ -1,8 +1,8 @@
 # Aristotelian influences
 
-Some Aristotelian intuitions help illuminate the method: the passage from potency to act and the reading through the four causes.
+Some Aristotelian intuitions help illuminate the framework: the passage from potency to act and the reading through the four causes.
 
-These influences help explain why the method is interested in Value Generation, Realization, Human Territory, Evidence, Impact, and Integration.
+These influences help explain why the framework is interested in Value Generation, Realization, Human Territory, Evidence, Impact, and Integration.
 
 ## Potency and act
 
@@ -24,7 +24,7 @@ This is why Nautilus does not confuse activity with Realization. Activity may ca
 
 The first reading is metaphysical: what was possible becomes actual.
 
-With Value Generation and Impact, the method also gains ethical orientation. Nautilus does not ask only whether something became real. It asks what value became real, for whom, and what consequences or responses appear after that availability.
+With Value Generation and Impact, the framework also gains ethical orientation. Nautilus does not ask only whether something became real. It asks what value became real, for whom, and what consequences or responses appear after that availability.
 
 This ethical layer does not make Impact controllable. It makes the Journey responsible for the value it seeks to generate and attentive to what the world returns after Realization.
 
@@ -71,4 +71,4 @@ Potency and act help Nautilus think the passage from the possible to the realize
 
 The four causes help Nautilus observe a Realization by context and materiality, form, movement, and finality.
 
-Together, these influences reinforce the method's central intuition: work only becomes Realization when it gains recognizable form and comes to exist in the Human Territory with finality, evidence, and capacity for continuity. What happens after that availability belongs to Impact and can be learned from without pretending it was fully controlled.
+Together, these influences reinforce the framework's central intuition: work only becomes Realization when it gains recognizable form and comes to exist in the Human Territory with finality, evidence, and capacity for continuity. What happens after that availability belongs to Impact and can be learned from without pretending it was fully controlled.

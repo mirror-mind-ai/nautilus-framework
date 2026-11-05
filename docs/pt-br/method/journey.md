@@ -53,4 +53,4 @@ Uma Jornada está bem nomeada quando ajuda os Participantes a responder:
 
 ## Fronteira da versão atual
 
-Na versão `0.1.0-experimental`, Jornada é um conceito fundador da linguagem do método. Ainda não há uma estrutura formal completa para estados, papéis, autoridade, persistência ou ciclo operacional da Jornada.
+Na versão `0.1.0-experimental`, Jornada é um conceito fundador da linguagem do framework. Ainda não há uma estrutura formal completa para estados, papéis, autoridade, persistência ou ciclo operacional da Jornada.

@@ -27,7 +27,7 @@ A Participant's nature informs how it may act, but does not yet fully define Rol
 
 A human Participant brings intention, lived context, values, decision, and responsibility.
 
-In the method, humans are not merely task requesters. They participate in the Journey as sources of meaning, validation, authority, and integration. Even when agents expand production capacity, the human axis remains relevant for recognizing what matters, what was realized, and what should be preserved.
+In the framework, humans are not merely task requesters. They participate in the Journey as sources of meaning, validation, authority, and integration. Even when agents expand production capacity, the human axis remains relevant for recognizing what matters, what was realized, and what should be preserved.
 
 ## Agentic Participant
 
@@ -62,4 +62,4 @@ A Participant is well described when the Journey can answer:
 
 ## Boundary of the current version
 
-In version `0.1.0-experimental`, Participant is a founding concept of the method language. Nature is recognized. Role and Authority remain future chambers.
+In version `0.1.0-experimental`, Participant is a founding concept of the framework language. Nature is recognized. Role and Authority remain future chambers.

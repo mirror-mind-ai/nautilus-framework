@@ -40,7 +40,7 @@ As perguntas centrais são simples:
 
 Publicar um livro pode ser Realização. Ter leitores é Impacto. A quantidade de leitores, a qualidade das respostas, citações, recomendações, desempenho de mercado ou transformação na vida dos leitores são Impacto.
 
-O método permanece operacionalmente disciplinado pela Realização porque Realização nomeia a parte que os Participantes conseguem conduzir com mais agência: dar forma, disponibilizar, evidenciar e integrar. Seu centro mais amplo é a Geração de Valor. Impacto pode ser desenhado, convidado, aferido e aprendido, mas não controlado do mesmo modo.
+O framework permanece operacionalmente disciplinado pela Realização porque Realização nomeia a parte que os Participantes conseguem conduzir com mais agência: dar forma, disponibilizar, evidenciar e integrar. Seu centro mais amplo é a Geração de Valor. Impacto pode ser desenhado, convidado, aferido e aprendido, mas não controlado do mesmo modo.
 
 ## Realização e Missão
 
@@ -48,7 +48,7 @@ O método permanece operacionalmente disciplinado pela Realização porque Reali
 
 Uma Missão nomeia o movimento enquanto ele ainda precisa ser carregado. Realização nomeia o reconhecimento de que o movimento tornou valor disponível no Território Humano. Por isso, uma Missão ainda não é uma Realização. Ela pode falhar, ser reformulada, produzir Realizações parciais ou revelar que a Realização desejada ainda não foi bem nomeada.
 
-Essa distinção preserva a sequência prática do método: Missão conduz, Evidência sustenta reconhecimento, Realização nomeia o que se tornou disponível e Integração preserva o que foi aprendido.
+Essa distinção preserva a sequência prática do framework: Missão conduz, Evidência sustenta reconhecimento, Realização nomeia o que se tornou disponível e Integração preserva o que foi aprendido.
 
 ## Realização e Evidência
 
@@ -107,4 +107,4 @@ Não há Realização bem reconhecida quando:
 
 ## Fronteira da versão atual
 
-Na versão `0.1.0-experimental`, Realização é conceito fundador da linguagem do método. O ciclo operacional completo de reconhecimento, validação e integração ainda será formalizado em câmaras futuras.
+Na versão `0.1.0-experimental`, Realização é conceito fundador da linguagem do framework. O ciclo operacional completo de reconhecimento, validação e integração ainda será formalizado em câmaras futuras.

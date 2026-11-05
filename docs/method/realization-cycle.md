@@ -41,7 +41,7 @@ It will be the passage from formulated Mission to oriented work. When it enters,
 
 [Delivery](delivery.md) will be the produced result or change effected by the Mission as a candidate carrier of value.
 
-The method should distinguish Delivery types without forcing everything to become a file or completed task.
+The framework should distinguish Delivery types without forcing everything to become a file or completed task.
 
 ## Evidence
 

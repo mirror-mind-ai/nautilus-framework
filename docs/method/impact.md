@@ -8,7 +8,7 @@ It may appear as contact, response, adoption, sale, citation, transformation, be
 
 Nautilus needs to distinguish what the Journey can conduct from what it can only observe, influence, and learn from.
 
-The method is centered on Value Generation. It is disciplined by Realization because Realization names the part of the movement that Participants can conduct with more agency: giving form to the work, producing or making available a Delivery, gathering proportional Evidence, recognizing that something now exists in the Human Territory, and integrating what was learned.
+The framework is centered on Value Generation. It is disciplined by Realization because Realization names the part of the movement that Participants can conduct with more agency: giving form to the work, producing or making available a Delivery, gathering proportional Evidence, recognizing that something now exists in the Human Territory, and integrating what was learned.
 
 Impact comes next. It depends on the world receiving, using, interpreting, ignoring, sharing, resisting, or transforming what became available. Participants can design for Impact, invite it, measure it, and learn from it, but they do not control it.
 
@@ -36,7 +36,7 @@ A Journey can control, or at least directly conduct, many conditions of Realizat
 
 A Journey cannot control Impact in the same way. It cannot guarantee readership, adoption, resonance, transformation, or market response.
 
-This boundary protects the method from confusing responsibility with omnipotence. Nautilus asks Participants to realize what is theirs to realize, then observe Impact without pretending it was fully under their control.
+This boundary protects the framework from confusing responsibility with omnipotence. Nautilus asks Participants to realize what is theirs to realize, then observe Impact without pretending it was fully under their control.
 
 ## Assessing Impact
 
@@ -76,7 +76,7 @@ To distinguish Realization from Impact, ask:
 
 ## Synthesis
 
-Value Generation is the method's primary field.
+Value Generation is the framework's primary field.
 
 Realization makes value real, available, evidenced, and integrated in the Human Territory.
 

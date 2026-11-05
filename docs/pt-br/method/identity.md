@@ -16,7 +16,7 @@ grammar_status: experimental
 
 Esta versão é experimental porque ainda não pretende estabilizar a ontologia inteira. Ela estabiliza uma primeira superfície de linguagem para permitir leitura, experimentação e reconhecimento comum entre os corpos da família Nautilus.
 
-`method_version` permanece como o campo de compatibilidade usado pelo Protocol. Ele não afirma que o Framework ainda se chama método.
+`method_version` permanece como o campo de compatibilidade usado pelo Protocol. Ele não preserva o nome anterior do Framework.
 
 ## Família nominal
 

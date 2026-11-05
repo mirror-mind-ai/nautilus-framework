@@ -102,7 +102,7 @@ A Mission is not yet whole when:
 
 The main anti-pattern is smuggling execution into formulation.
 
-Example: a Mission that already contains a detailed plan, role assignment, final criteria, evidence, and closure may be valuable, but it exceeds the current slice. It should be decomposed or wait until the method has chambers capable of sustaining it.
+Example: a Mission that already contains a detailed plan, role assignment, final criteria, evidence, and closure may be valuable, but it exceeds the current slice. It should be decomposed or wait until the framework has chambers capable of sustaining it.
 
 A second anti-pattern is inflating tasks into Missions. A large task remains a task when it only executes part of a frame. A small Mission remains a Mission when it holds responsibility for a complete movement of Realization.
 
@@ -116,4 +116,4 @@ This practice preserves the conversational nature of agentic environments. The h
 
 ## Next evolution
 
-The next evolution of Mission should clarify when a formulated Mission becomes ready for execution and which fields can enter without breaking recognition across Method, Protocol, Mirror Extension, and Harness.
+The next evolution of Mission should clarify when a formulated Mission becomes ready for execution and which fields can enter without breaking recognition across Framework, App, and Protocol.

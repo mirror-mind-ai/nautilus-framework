@@ -42,7 +42,7 @@ Delivery answers: what gained form?
 
 Realization answers: what became available or different in the Human Territory?
 
-This distinction protects the method from confusing production with progress. A Journey may generate many Deliveries and still not increase its capacity to realize.
+This distinction protects the framework from confusing production with progress. A Journey may generate many Deliveries and still not increase its capacity to realize.
 
 ## Practical criterion
 
@@ -58,4 +58,4 @@ A Delivery is well named when Participants can answer:
 
 ## Boundary of the current version
 
-In version `0.1.0-experimental`, Delivery is a founding concept of the method language, but its types, states, and formal criteria will be stabilized in future chambers.
+In version `0.1.0-experimental`, Delivery is a founding concept of the framework language, but its types, states, and formal criteria will be stabilized in future chambers.

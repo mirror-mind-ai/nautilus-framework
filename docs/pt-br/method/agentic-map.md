@@ -18,7 +18,7 @@ O Mapa Agêntico existe para dar chão à ação agêntica.
 
 Mapa Agêntico é a representação operacional que orienta a ação agêntica nesse campo.
 
-A distinção é importante: o mapa nunca substitui o território. Ele pode estar incompleto, defasado, distorcido ou pobre. Por isso Nautilus exige [Evidências](evidence.md), reconhecimento humano e [Integração](integration.md): o método precisa verificar se o que o mapa orientou realmente tocou o Território Humano.
+A distinção é importante: o mapa nunca substitui o território. Ele pode estar incompleto, defasado, distorcido ou pobre. Por isso Nautilus exige [Evidências](evidence.md), reconhecimento humano e [Integração](integration.md): o framework precisa verificar se o que o mapa orientou realmente tocou o Território Humano.
 
 ## Relação com causa material
 

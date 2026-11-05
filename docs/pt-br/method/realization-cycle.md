@@ -41,7 +41,7 @@ Ela será a passagem da Missão formulada para trabalho orientado. Quando entrar
 
 [Entrega](delivery.md) será o resultado produzido ou a mudança efetuada pela Missão como portador candidato de valor.
 
-O método deverá distinguir tipos de Entrega, sem forçar tudo a virar arquivo ou tarefa concluída.
+O framework deverá distinguir tipos de Entrega, sem forçar tudo a virar arquivo ou tarefa concluída.
 
 ## Evidência
 

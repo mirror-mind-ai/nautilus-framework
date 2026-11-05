@@ -40,7 +40,7 @@ The central questions are simple:
 
 Publishing a book can be Realization. Having readers is Impact. The number of readers, the quality of responses, citations, recommendations, market performance, or transformation in readers' lives are Impact.
 
-The method remains operationally disciplined by Realization because Realization names the part Participants can conduct with more agency: giving form, making available, evidencing, and integrating. Its broader center is Value Generation. Impact can be designed for, invited, measured, and learned from, but not controlled in the same way.
+The framework remains operationally disciplined by Realization because Realization names the part Participants can conduct with more agency: giving form, making available, evidencing, and integrating. Its broader center is Value Generation. Impact can be designed for, invited, measured, and learned from, but not controlled in the same way.
 
 ## Realization and Mission
 
@@ -48,7 +48,7 @@ The method remains operationally disciplined by Realization because Realization 
 
 A Mission names the movement while it still needs to be carried. Realization names the recognition that the movement made value available in the Human Territory. For this reason, a Mission is not already a Realization. It can fail, be reformulated, produce partial Realizations, or reveal that the desired Realization was not yet well named.
 
-This distinction preserves the practical sequence of the method: Mission conducts, Evidence sustains recognition, Realization names what became available, and Integration preserves what was learned.
+This distinction preserves the practical sequence of the framework: Mission conducts, Evidence sustains recognition, Realization names what became available, and Integration preserves what was learned.
 
 ## Realization and Evidence
 
@@ -107,4 +107,4 @@ There is no well-recognized Realization when:
 
 ## Boundary of the current version
 
-In version `0.1.0-experimental`, Realization is a founding concept of the method language. The complete operational cycle of recognition, validation, and integration will be formalized in future chambers.
+In version `0.1.0-experimental`, Realization is a founding concept of the framework language. The complete operational cycle of recognition, validation, and integration will be formalized in future chambers.

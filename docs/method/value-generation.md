@@ -4,7 +4,7 @@ Value Generation is the central purpose of Nautilus and the concept page for the
 
 **Every Journey should orient its Realization by the value it seeks to make available in the Human Territory.**
 
-Nautilus is a method for continuous value generation through human-agentic collaboration. It helps humans and agents conduct work so that effort becomes value made available in the [Human Territory](human-territory.md), sustained by [Evidence](evidence.md), observed through [Impact](impact.md), and integrated as future capacity.
+Nautilus Agentic Framework supports continuous value generation through human-agentic collaboration. It helps humans and agents conduct work so that effort becomes value made available in the [Human Territory](human-territory.md), sustained by [Evidence](evidence.md), observed through [Impact](impact.md), and integrated as future capacity.
 
 ## What value means
 
@@ -22,9 +22,9 @@ These lenses may converge, diverge, or appear separately. A product can be purch
 
 ## Why Value Generation is central
 
-The method is not centered on agents. Agents are participants and support. The method is centered on the human capacity to generate value with more coherence in a world where AI agents can expand speed, volume, and exploration.
+The framework is not centered on agents. Agents are participants and support. The framework is centered on the human capacity to generate value with more coherence in a world where AI agents can expand speed, volume, and exploration.
 
-Value gives direction to the method. It asks what the work is for, what field it serves, what contribution is worth making, and how the Journey becomes more capable after each turn of the spiral.
+Value gives direction to the framework. It asks what the work is for, what field it serves, what contribution is worth making, and how the Journey becomes more capable after each turn of the spiral.
 
 Without Value Generation, Realization can sound like an end in itself. Nautilus does not seek merely to make things exist. It seeks to make meaningful value available in the Human Territory.
 
@@ -34,7 +34,7 @@ Without Value Generation, Realization can sound like an end in itself. Nautilus 
 
 A Realization happens when work gains form, crosses the [Journey](journey.md), becomes available in the Human Territory, is sustained by Evidence, and can be integrated into the next movement.
 
-This keeps the method grounded in what Participants can actually conduct. They can formulate, produce, make available, evidence, recognize, and integrate. They cannot fully control how the world responds.
+This keeps the framework grounded in what Participants can actually conduct. They can formulate, produce, make available, evidence, recognize, and integrate. They cannot fully control how the world responds.
 
 ## Impact as response
 
@@ -46,11 +46,11 @@ The early layers matter, but they do not automatically prove integrative value. 
 
 ## Ethical orientation
 
-Integrative Value introduces an ethical orientation into the method.
+Integrative Value introduces an ethical orientation into the framework.
 
 The question is no longer only whether potential became actual, or whether effort became a recognized result. The question also becomes: what kind of value is being generated, in which territory, and at what cost?
 
-This does not turn Nautilus into a moral doctrine. It gives the method a necessary direction. A spiral can grow with form and still grow toward the wrong thing. Integrative Value is the question that prevents coherence from becoming mere efficiency.
+This does not turn Nautilus into a moral doctrine. It gives the framework a necessary direction. A spiral can grow with form and still grow toward the wrong thing. Integrative Value is the question that prevents coherence from becoming mere efficiency.
 
 ## Difference from production
 

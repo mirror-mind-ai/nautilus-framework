@@ -1,14 +1,14 @@
 # Principles
 
-The Nautilus principles describe how the method preserves direction, form, recognition, continuity, and expansion while conducting continuous [Value Generation](value-generation.md) through human-agentic collaboration.
+The Nautilus principles describe how the framework preserves direction, form, recognition, continuity, and expansion while conducting continuous [Value Generation](value-generation.md) through human-agentic collaboration.
 
-They are not a checklist and they are not a hierarchy. They are complementary orientation criteria for reading whether a Journey is growing according to the Nautilus method.
+They are not a checklist and they are not a hierarchy. They are complementary orientation criteria for reading whether a Journey is growing according to the Nautilus framework.
 
 ## Value as Direction
 
 Every Journey should orient its [Realization](realization.md) by the value it seeks to make available in the [Human Territory](human-territory.md).
 
-Value gives the method its direction. A Journey should not begin only by asking what will be done, produced, or automated. It should ask what value is being sought and what kind of contribution should become available in the Human Territory.
+Value gives the framework its direction. A Journey should not begin only by asking what will be done, produced, or automated. It should ask what value is being sought and what kind of contribution should become available in the Human Territory.
 
 See [Value Generation](value-generation.md).
 
@@ -16,13 +16,13 @@ See [Value Generation](value-generation.md).
 
 Each advance should expand the [Journey](journey.md)'s capacity while preserving the coherence that allows it to continue.
 
-This principle comes from the nautilus image: growth happens by opening new chambers without abandoning the structure that sustains life. In the method, this means that each Realization should increase capacity without dissolving memory, criteria, direction, or coherence.
+This principle comes from the nautilus image: growth happens by opening new chambers without abandoning the structure that sustains life. In the framework, this means that each Realization should increase capacity without dissolving memory, criteria, direction, or coherence.
 
-It gives the method its spiral image, but it is not superior to the other principles. It works beside them: value gives direction, form gives measure, evidence gives trustworthy recognition, continuity preserves form across time, and integration turns each movement into expanded capacity.
+It gives the framework its spiral image, but it is not superior to the other principles. It works beside them: value gives direction, form gives measure, evidence gives trustworthy recognition, continuity preserves form across time, and integration turns each movement into expanded capacity.
 
 ## Form in Service of Realization
 
-Each form in the method should help value become realized in the Human Territory without imposing more complexity than the Journey needs to carry.
+Each form in the framework should help value become realized in the Human Territory without imposing more complexity than the Journey needs to carry.
 
 The grammar exists to serve the controllable passage of Realization. It should help Participants formulate, produce, make available, evidence, recognize, and integrate. When form becomes heavier than the work needs, it turns into bureaucracy. When it is too weak, the Journey loses recognizability.
 

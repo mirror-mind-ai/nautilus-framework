@@ -4,7 +4,7 @@ Geração de Valor é o propósito central de Nautilus e a página conceitual do
 
 **Toda Jornada deve orientar sua Realização pelo valor que busca tornar disponível no Território Humano.**
 
-Nautilus é um método para geração contínua de valor por meio de colaboração humano-agêntica. Ele ajuda humanos e agentes a conduzir trabalho para que esforço se torne valor disponibilizado no [Território Humano](human-territory.md), sustentado por [Evidências](evidence.md), observado por [Impacto](impact.md) e integrado como capacidade futura.
+O Nautilus Agentic Framework sustenta a geração contínua de valor por meio de colaboração humano-agêntica. Ele ajuda humanos e agentes a conduzir trabalho para que esforço se torne valor disponibilizado no [Território Humano](human-territory.md), sustentado por [Evidências](evidence.md), observado por [Impacto](impact.md) e integrado como capacidade futura.
 
 ## O que valor significa
 
@@ -22,9 +22,9 @@ Essas lentes podem convergir, divergir ou aparecer separadamente. Um produto pod
 
 ## Por que Geração de Valor é central
 
-O método não é centrado nos agentes. Agentes são participantes e apoio. O método é centrado na capacidade humana de gerar valor com mais coerência em um mundo onde IAs agênticas podem ampliar velocidade, volume e exploração.
+O framework não é centrado nos agentes. Agentes são participantes e apoio. O framework é centrado na capacidade humana de gerar valor com mais coerência em um mundo onde IAs agênticas podem ampliar velocidade, volume e exploração.
 
-Valor dá direção ao método. Ele pergunta para que o trabalho existe, que campo ele serve, que contribuição vale a pena produzir e como a Jornada se torna mais capaz depois de cada giro da espiral.
+Valor dá direção ao framework. Ele pergunta para que o trabalho existe, que campo ele serve, que contribuição vale a pena produzir e como a Jornada se torna mais capaz depois de cada giro da espiral.
 
 Sem Geração de Valor, Realização pode soar como fim em si. Nautilus não busca apenas fazer coisas existirem. Ele busca tornar valor significativo disponível no Território Humano.
 
@@ -34,7 +34,7 @@ Sem Geração de Valor, Realização pode soar como fim em si. Nautilus não bus
 
 Uma Realização acontece quando o trabalho ganha forma, atravessa a [Jornada](journey.md), torna-se disponível no Território Humano, é sustentado por Evidências e pode ser integrado ao próximo movimento.
 
-Isso mantém o método ancorado naquilo que os Participantes conseguem conduzir. Eles podem formular, produzir, disponibilizar, evidenciar, reconhecer e integrar. Eles não conseguem controlar plenamente como o mundo responde.
+Isso mantém o framework ancorado naquilo que os Participantes conseguem conduzir. Eles podem formular, produzir, disponibilizar, evidenciar, reconhecer e integrar. Eles não conseguem controlar plenamente como o mundo responde.
 
 ## Impacto como resposta
 
@@ -46,11 +46,11 @@ As camadas iniciais importam, mas não provam automaticamente valor integrativo.
 
 ## Orientação ética
 
-Valor Integrativo introduz uma orientação ética no método.
+Valor Integrativo introduz uma orientação ética no framework.
 
 A pergunta deixa de ser apenas se uma potência virou ato, ou se o esforço virou resultado reconhecido. A pergunta passa a ser também: que tipo de valor está sendo gerado, em que território e a que custo?
 
-Isso não transforma Nautilus em doutrina moral. Dá ao método uma direção necessária. Uma espiral pode crescer com forma e ainda crescer na direção errada. Valor Integrativo é a pergunta que impede a coerência de virar mera eficiência.
+Isso não transforma Nautilus em doutrina moral. Dá ao framework uma direção necessária. Uma espiral pode crescer com forma e ainda crescer na direção errada. Valor Integrativo é a pergunta que impede a coerência de virar mera eficiência.
 
 ## Diferença em relação à produção
 

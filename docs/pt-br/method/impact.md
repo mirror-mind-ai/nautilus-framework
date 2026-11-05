@@ -8,7 +8,7 @@ Ele pode aparecer como contato, resposta, adoção, venda, citação, transforma
 
 Nautilus precisa distinguir aquilo que a Jornada pode conduzir daquilo que ela só pode observar, influenciar e aprender.
 
-O método se centra em Geração de Valor. Ele é disciplinado pela Realização porque Realização nomeia a parte do movimento que os Participantes conseguem conduzir com mais agência: dar forma ao trabalho, produzir ou disponibilizar uma Entrega, reunir Evidência proporcional, reconhecer que algo agora existe no Território Humano e integrar o que foi aprendido.
+O framework se centra em Geração de Valor. Ele é disciplinado pela Realização porque Realização nomeia a parte do movimento que os Participantes conseguem conduzir com mais agência: dar forma ao trabalho, produzir ou disponibilizar uma Entrega, reunir Evidência proporcional, reconhecer que algo agora existe no Território Humano e integrar o que foi aprendido.
 
 Impacto vem depois. Ele depende de o mundo receber, usar, interpretar, ignorar, compartilhar, resistir ou transformar aquilo que se tornou disponível. Participantes podem desenhar para Impacto, convidá-lo, medi-lo e aprender com ele, mas não o controlam.
 
@@ -36,7 +36,7 @@ Uma Jornada pode controlar, ou pelo menos conduzir diretamente, muitas condiçõ
 
 Uma Jornada não controla o Impacto do mesmo modo. Ela não consegue garantir leitura, adoção, ressonância, transformação ou resposta de mercado.
 
-Essa fronteira protege o método de confundir responsabilidade com onipotência. Nautilus pede que os Participantes realizem aquilo que cabe a eles realizar, depois observem o Impacto sem fingir que ele estava inteiramente sob controle.
+Essa fronteira protege o framework de confundir responsabilidade com onipotência. Nautilus pede que os Participantes realizem aquilo que cabe a eles realizar, depois observem o Impacto sem fingir que ele estava inteiramente sob controle.
 
 ## Aferir Impacto
 
@@ -76,7 +76,7 @@ Para distinguir Realização de Impacto, pergunte:
 
 ## Síntese
 
-Geração de Valor é o campo primário do método.
+Geração de Valor é o campo primário do framework.
 
 Realização torna valor real, disponível, evidenciado e integrado no Território Humano.
 

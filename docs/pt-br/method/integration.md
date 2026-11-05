@@ -65,4 +65,4 @@ Uma Integração é boa quando os [Participantes](participant.md) conseguem resp
 
 ## Fronteira da versão atual
 
-Na versão `0.1.0-experimental`, Integração é conceito fundador da linguagem do método. Seus formatos, estados e mecanismos operacionais serão estabilizados em câmaras futuras.
+Na versão `0.1.0-experimental`, Integração é conceito fundador da linguagem do framework. Seus formatos, estados e mecanismos operacionais serão estabilizados em câmaras futuras.

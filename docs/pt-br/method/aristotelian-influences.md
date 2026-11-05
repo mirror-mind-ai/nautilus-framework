@@ -1,8 +1,8 @@
 # Influências aristotélicas
 
-Algumas intuições aristotélicas ajudam a iluminar o método: a passagem de potência a ato e a leitura pelas quatro causas.
+Algumas intuições aristotélicas ajudam a iluminar o framework: a passagem de potência a ato e a leitura pelas quatro causas.
 
-Essas influências ajudam a explicar por que o método se interessa por Geração de Valor, Realização, Território Humano, Evidência, Impacto e Integração.
+Essas influências ajudam a explicar por que o framework se interessa por Geração de Valor, Realização, Território Humano, Evidência, Impacto e Integração.
 
 ## Potência e ato
 
@@ -24,7 +24,7 @@ Por isso Nautilus não confunde atividade com Realização. Atividade pode carre
 
 A primeira leitura é metafísica: o que era possível se torna atual.
 
-Com Geração de Valor e Impacto, o método também ganha orientação ética. Nautilus não pergunta apenas se algo se tornou real. Pergunta que valor se tornou real, para quem e que consequências ou respostas aparecem depois dessa disponibilidade.
+Com Geração de Valor e Impacto, o framework também ganha orientação ética. Nautilus não pergunta apenas se algo se tornou real. Pergunta que valor se tornou real, para quem e que consequências ou respostas aparecem depois dessa disponibilidade.
 
 Essa camada ética não torna o Impacto controlável. Ela torna a Jornada responsável pelo valor que busca gerar e atenta ao que o mundo devolve depois da Realização.
 
@@ -71,4 +71,4 @@ Potência e ato ajudam Nautilus a pensar a passagem do possível ao realizado.
 
 As quatro causas ajudam Nautilus a observar uma Realização por contexto e materialidade, forma, movimento e finalidade.
 
-Juntas, essas influências reforçam a intuição central do método: trabalho só se torna Realização quando ganha forma reconhecível e passa a existir no Território Humano com finalidade, evidência e capacidade de continuidade. O que acontece depois dessa disponibilidade pertence ao Impacto e pode ser aprendido sem fingir que estava inteiramente sob controle.
+Juntas, essas influências reforçam a intuição central do framework: trabalho só se torna Realização quando ganha forma reconhecível e passa a existir no Território Humano com finalidade, evidência e capacidade de continuidade. O que acontece depois dessa disponibilidade pertence ao Impacto e pode ser aprendido sem fingir que estava inteiramente sob controle.

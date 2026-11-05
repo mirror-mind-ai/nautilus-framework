@@ -1,14 +1,14 @@
 # Princípios
 
-Os princípios Nautilus descrevem como o método preserva direção, forma, reconhecimento, continuidade e expansão enquanto conduz [Geração de Valor](value-generation.md) contínua por meio de colaboração humano-agêntica.
+Os princípios Nautilus descrevem como o framework preserva direção, forma, reconhecimento, continuidade e expansão enquanto conduz [Geração de Valor](value-generation.md) contínua por meio de colaboração humano-agêntica.
 
-Eles não são uma checklist e não são uma hierarquia. São critérios complementares de orientação para ler se uma Jornada está crescendo segundo o método Nautilus.
+Eles não são uma checklist e não são uma hierarquia. São critérios complementares de orientação para ler se uma Jornada está crescendo segundo o framework Nautilus.
 
 ## Valor como Direção
 
 Toda Jornada deve orientar sua [Realização](realization.md) pelo valor que busca tornar disponível no [Território Humano](human-territory.md).
 
-Valor dá direção ao método. Uma Jornada não deve começar apenas perguntando o que será feito, produzido ou automatizado. Ela deve perguntar que valor está sendo buscado e que tipo de contribuição deve se tornar disponível no Território Humano.
+Valor dá direção ao framework. Uma Jornada não deve começar apenas perguntando o que será feito, produzido ou automatizado. Ela deve perguntar que valor está sendo buscado e que tipo de contribuição deve se tornar disponível no Território Humano.
 
 Veja [Geração de Valor](value-generation.md).
 
@@ -16,13 +16,13 @@ Veja [Geração de Valor](value-generation.md).
 
 Cada avanço deve ampliar a capacidade da [Jornada](journey.md) preservando a coerência que permite continuar.
 
-Este princípio vem da imagem do náutilo: o crescimento acontece pela abertura de novas câmaras sem abandonar a estrutura que sustenta a vida. No método, isso significa que cada Realização deve aumentar capacidade sem dissolver memória, critérios, direção ou coerência.
+Este princípio vem da imagem do náutilo: o crescimento acontece pela abertura de novas câmaras sem abandonar a estrutura que sustenta a vida. No framework, isso significa que cada Realização deve aumentar capacidade sem dissolver memória, critérios, direção ou coerência.
 
-Ele dá ao método sua imagem espiral, mas não é superior aos outros princípios. Ele trabalha ao lado deles: valor dá direção, forma dá medida, evidência dá reconhecimento confiável, continuidade preserva forma no tempo e integração transforma cada movimento em capacidade ampliada.
+Ele dá ao framework sua imagem espiral, mas não é superior aos outros princípios. Ele trabalha ao lado deles: valor dá direção, forma dá medida, evidência dá reconhecimento confiável, continuidade preserva forma no tempo e integração transforma cada movimento em capacidade ampliada.
 
 ## Forma a Serviço da Realização
 
-Cada forma do método deve ajudar o valor a se realizar no Território Humano sem impor complexidade maior do que a Jornada precisa carregar.
+Cada forma do framework deve ajudar o valor a se realizar no Território Humano sem impor complexidade maior do que a Jornada precisa carregar.
 
 A gramática existe para servir à passagem controlável da Realização. Ela deve ajudar Participantes a formular, produzir, disponibilizar, evidenciar, reconhecer e integrar. Quando a forma fica mais pesada do que o trabalho precisa, ela vira burocracia. Quando fica fraca demais, a Jornada perde reconhecibilidade.
 

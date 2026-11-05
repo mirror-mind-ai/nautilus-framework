@@ -21,7 +21,7 @@ A minimally whole Mission answers four questions:
 
 Beyond these four questions, the experimental version applies two recognition checks:
 
-- can Method, Protocol, Mirror Extension, and Harness recognize the same minimal fields?
+- can Framework, App, and Protocol recognize the same minimal fields?
 - is this a Mission, or is it only a task inside an assumed frame?
 
 ## Passing criterion
@@ -50,7 +50,7 @@ Reading through the test:
 
 | Cause or check | Answer |
 | --- | --- |
-| Material | The minimal context is the first Mission formulation chamber in the Nautilus method, with a simple YAML artifact as initial materiality |
+| Material | The minimal context is the first Mission formulation chamber in the Nautilus framework, with a simple YAML artifact as initial materiality |
 | Formal | Formulate the first Nautilus Mission |
 | Efficient | Only formulation is authorized; status is `formulated` |
 | Final | Prove that Nautilus can name intention before execution |

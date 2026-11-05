@@ -65,4 +65,4 @@ An Integration is good when Participants can answer:
 
 ## Boundary of the current version
 
-In version `0.1.0-experimental`, Integration is a founding concept of the method language. Its formats, states, and operational mechanisms will be stabilized in future chambers.
+In version `0.1.0-experimental`, Integration is a founding concept of the framework language. Its formats, states, and operational mechanisms will be stabilized in future chambers.

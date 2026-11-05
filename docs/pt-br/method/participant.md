@@ -27,7 +27,7 @@ A natureza de um Participante informa como ele pode atuar, mas ainda não define
 
 Um Participante humano traz intenção, contexto vivido, valores, decisão e responsabilidade.
 
-No método, humanos não são apenas solicitantes de tarefa. Eles participam da jornada como fontes de sentido, validação, autoridade e [integração](integration.md). Mesmo quando agentes ampliam capacidade de produção, o eixo humano continua relevante para reconhecer o que importa, o que foi realizado e o que deve ser preservado.
+No framework, humanos não são apenas solicitantes de tarefa. Eles participam da jornada como fontes de sentido, validação, autoridade e [integração](integration.md). Mesmo quando agentes ampliam capacidade de produção, o eixo humano continua relevante para reconhecer o que importa, o que foi realizado e o que deve ser preservado.
 
 ## Participante agêntico
 
@@ -62,4 +62,4 @@ Um Participante está bem descrito quando a jornada consegue responder:
 
 ## Fronteira da versão atual
 
-Na versão `0.1.0-experimental`, Participante é conceito fundador da linguagem do método. Natureza é reconhecida. Papel e Autoridade permanecem câmaras futuras.
+Na versão `0.1.0-experimental`, Participante é conceito fundador da linguagem do framework. Natureza é reconhecida. Papel e Autoridade permanecem câmaras futuras.

@@ -4,9 +4,9 @@
 
 Nome da família e da experiência dedicada. A imagem do náutilo sustenta o princípio de crescimento por câmaras coerentes.
 
-## Nautilus Agentic Method
+## Nautilus Agentic Framework
 
-Camada conceitual e pedagógica da [família Nautilus](family.md), voltada à compreensão e prática humana do método. Dá linguagem, sentido e critério para a prática.
+Corpo conceitual e pedagógico da [família Nautilus](family.md), voltado à compreensão e prática humana do framework. Dá linguagem, sentido e critério para a prática.
 
 ## Nautilus Agentic Protocol
 
@@ -110,11 +110,11 @@ Capacidade legítima de decidir, autorizar ou reconhecer algo dentro da Jornada.
 
 ## Câmara semântica
 
-Fatia de linguagem que acrescenta capacidade ao método sem romper a forma anterior.
+Fatia de linguagem que acrescenta capacidade ao framework sem romper a forma anterior.
 
 ## Correspondência
 
-Alinhamento reconhecível entre Method, Protocol, Mirror Extension e Harness.
+Alinhamento reconhecível entre Framework, App e Protocol.
 
 ## Teste de Inteireza da Missão
 

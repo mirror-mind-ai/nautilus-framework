@@ -12,7 +12,7 @@ An artifact can exist without realizing anything. A conversation can feel produc
 
 A book may be written and still not have crossed its Human Territory if it was not made available. A published book can be Realization; whether it is read, sold, discussed, or incorporated into someone's life is [Impact](impact.md). An article may be online as Realization when it is available to its intended field; reading, resonance, decision, or use are Impact signals. A report may be finished and still not realize anything if it was never made available to the people who could trust it to decide or act.
 
-Human Territory names the place where the method asks: did this make a difference where life and work actually happen?
+Human Territory names the place where the framework asks: did this make a difference where life and work actually happen?
 
 ## What belongs to the Human Territory
 

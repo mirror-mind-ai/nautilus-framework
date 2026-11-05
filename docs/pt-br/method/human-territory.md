@@ -12,7 +12,7 @@ Um artefato pode existir sem realizar nada. Uma conversa pode parecer produtiva 
 
 Um livro pode estar escrito e ainda não ter atravessado seu Território Humano se não foi disponibilizado. Um livro publicado pode ser Realização; se ele é lido, vendido, discutido ou incorporado à vida de alguém pertence ao [Impacto](impact.md). Um artigo pode estar online como Realização quando está disponível para o campo pretendido; leitura, ressonância, decisão ou uso são sinais de Impacto. Um relatório pode estar pronto e ainda não realizar nada se nunca foi disponibilizado às pessoas que poderiam confiar nele para decidir ou agir.
 
-Território Humano nomeia o lugar onde o método pergunta: isso fez diferença onde a vida e o trabalho realmente acontecem?
+Território Humano nomeia o lugar onde o framework pergunta: isso fez diferença onde a vida e o trabalho realmente acontecem?
 
 ## O que pertence ao Território Humano
 

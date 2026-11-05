@@ -2,7 +2,7 @@
 
 A gramática atual de Nautilus é uma superfície mínima de geração de valor e a página conceitual do princípio **Forma a Serviço da Realização**.
 
-**Cada forma do método deve ajudar o valor a se realizar no Território Humano sem impor complexidade maior do que a Jornada precisa carregar.**
+**Cada forma do framework deve ajudar o valor a se realizar no Território Humano sem impor complexidade maior do que a Jornada precisa carregar.**
 
 Ela organiza dez conceitos fundadores: [Geração de Valor](value-generation.md), [Território Humano](human-territory.md), [Jornada](journey.md), [Participante](participant.md), [Missão](mission.md), [Entrega](delivery.md), [Evidência](evidence.md), [Realização](realization.md), [Impacto](impact.md) e [Integração](integration.md).
 
@@ -16,7 +16,7 @@ Ela responde: que valor está sendo gerado, para quem e por meio de qual Realiza
 
 [Território Humano](human-territory.md) é o campo onde valor precisa se tornar disponível ou fazer diferença para que a Realização seja reconhecida como humana ou humano-agêntica.
 
-Ele vem antes da Jornada porque define onde o método precisa tocar o mundo vivido: decisões, relações, responsabilidades, consequências, aprendizado e capacidade de continuar.
+Ele vem antes da Jornada porque define onde o framework precisa tocar o mundo vivido: decisões, relações, responsabilidades, consequências, aprendizado e capacidade de continuar.
 
 ## Jornada
 

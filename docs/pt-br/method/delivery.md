@@ -42,7 +42,7 @@ Entrega responde: o que ganhou forma?
 
 Realização responde: o que se tornou disponível ou diferente no Território Humano?
 
-Essa distinção protege o método de confundir produção com avanço. Uma jornada pode gerar muitas Entregas e ainda assim não aumentar sua capacidade de realizar.
+Essa distinção protege o framework de confundir produção com avanço. Uma jornada pode gerar muitas Entregas e ainda assim não aumentar sua capacidade de realizar.
 
 ## Critério prático
 
@@ -58,4 +58,4 @@ Uma Entrega está bem nomeada quando os [Participantes](participant.md) consegue
 
 ## Fronteira da versão atual
 
-Na versão `0.1.0-experimental`, Entrega é conceito fundador da linguagem do método, mas seus tipos, estados e critérios formais ainda serão estabilizados em câmaras futuras.
+Na versão `0.1.0-experimental`, Entrega é conceito fundador da linguagem do framework, mas seus tipos, estados e critérios formais ainda serão estabilizados em câmaras futuras.

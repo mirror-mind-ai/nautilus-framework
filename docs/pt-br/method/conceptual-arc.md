@@ -1,8 +1,8 @@
 # Arco Conceitual
 
-O Arco Conceitual apresenta a sequência de conceitos que sustenta a Geração de Valor no Nautilus Agentic Method.
+O Arco Conceitual apresenta a sequência de conceitos que sustenta a Geração de Valor no Nautilus Agentic Framework.
 
-Ele não é uma máquina de estados. É um mapa de leitura e compreensão: mostra como o método atravessa o campo humano, organiza o trabalho e conduz a Realização como passagem disciplinada pela qual o valor se torna disponível.
+Ele não é uma máquina de estados. É um mapa de leitura e compreensão: mostra como o framework atravessa o campo humano, organiza o trabalho e conduz a Realização como passagem disciplinada pela qual o valor se torna disponível.
 
 ## Sequência do arco
 
@@ -24,7 +24,7 @@ Geração de Valor
 
 [Território Humano](human-territory.md) é o campo onde o valor precisa se tornar disponível ou fazer diferença para que a Realização seja reconhecida como humana ou humano-agêntica.
 
-Ele vem antes da Jornada porque define onde o método precisa tocar o mundo vivido: decisões, relações, responsabilidades, consequências, aprendizado e capacidade de continuar.
+Ele vem antes da Jornada porque define onde o framework precisa tocar o mundo vivido: decisões, relações, responsabilidades, consequências, aprendizado e capacidade de continuar.
 
 ## Mapa Agêntico
 

@@ -18,7 +18,7 @@ The Agentic Map exists to give ground to agentic action.
 
 Agentic Map is the operational representation that orients agentic action in that field.
 
-The distinction matters: the map never replaces the territory. It can be incomplete, stale, distorted, or poor. That is why Nautilus requires [Evidence](evidence.md), human recognition, and [Integration](integration.md): the method needs to verify whether what the map oriented actually touched the Human Territory.
+The distinction matters: the map never replaces the territory. It can be incomplete, stale, distorted, or poor. That is why Nautilus requires [Evidence](evidence.md), human recognition, and [Integration](integration.md): the framework needs to verify whether what the map oriented actually touched the Human Territory.
 
 ## Relation to material cause
 

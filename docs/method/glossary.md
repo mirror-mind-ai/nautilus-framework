@@ -4,9 +4,9 @@
 
 Name of the family and dedicated experience. The nautilus image sustains the principle of growth through coherent chambers.
 
-## Nautilus Agentic Method
+## Nautilus Agentic Framework
 
-Conceptual and pedagogical layer of the [Nautilus Family](family.md), oriented to understanding and practicing the method. It gives language, meaning, and criteria to practice.
+Conceptual and pedagogical body of the [Nautilus Family](family.md), oriented to understanding and practicing the framework. It gives language, meaning, and criteria to practice.
 
 ## Nautilus Agentic Protocol
 
@@ -110,7 +110,7 @@ Legitimate capacity to decide, authorize, or recognize something inside the Jour
 
 ## Semantic chamber
 
-Slice of language that adds capacity to the method without breaking the previous form.
+Slice of language that adds capacity to the framework without breaking the previous form.
 
 ## Mission Integrity Test
 

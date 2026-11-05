@@ -1,8 +1,8 @@
 # Conceptual Arc
 
-The Conceptual Arc presents the sequence of concepts that sustains Value Generation in the Nautilus Agentic Method.
+The Conceptual Arc presents the sequence of concepts that sustains Value Generation in the Nautilus Agentic Framework.
 
-It is not a state machine. It is a reading and understanding map: it shows how the method crosses the human field, organizes work, and conducts Realization as the disciplined passage through which value becomes available.
+It is not a state machine. It is a reading and understanding map: it shows how the framework crosses the human field, organizes work, and conducts Realization as the disciplined passage through which value becomes available.
 
 ## Arc sequence
 
@@ -24,7 +24,7 @@ Value Generation
 
 [Human Territory](human-territory.md) is the field where value must become available or make a difference in order for Realization to be recognized as human or human-agentic.
 
-It comes before the Journey because it defines where the method must touch the lived world: decisions, relationships, responsibilities, consequences, learning, and the capacity to continue.
+It comes before the Journey because it defines where the framework must touch the lived world: decisions, relationships, responsibilities, consequences, learning, and the capacity to continue.
 
 ## Agentic Map
 

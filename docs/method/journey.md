@@ -53,4 +53,4 @@ A Journey is well named when it helps Participants answer:
 
 ## Boundary of the current version
 
-In version `0.1.0-experimental`, Journey is a founding concept of the method language. There is not yet a complete formal structure for states, roles, authority, persistence, or the operational cycle of the Journey.
+In version `0.1.0-experimental`, Journey is a founding concept of the framework language. There is not yet a complete formal structure for states, roles, authority, persistence, or the operational cycle of the Journey.
