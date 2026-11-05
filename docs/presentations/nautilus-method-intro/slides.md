@@ -1,12 +1,12 @@
 ---
-title: Nautilus Agentic Method
-description: Introductory presentation for Nautilus Agentic Method 0.1.0-experimental
+title: Nautilus Agentic Framework
+description: Introductory presentation for Nautilus Agentic Framework 0.1.0-experimental
 lang: en
 ---
 
 # Nautilus
 
-## A method for continuous value generation through human-agentic collaboration
+## A framework for continuous value generation through human-agentic collaboration
 
 Work gains form, evidence sustains progress, impact is observed, and learning consolidates without losing coherence.
 
@@ -42,7 +42,7 @@ Through the spiral movement, something now exists in the world.
 
 Agents expand speed, volume, and exploratory capacity.
 
-Without method and language capable of preserving coherence, this expansion can become dispersion.
+Without a framework and language capable of preserving coherence, this expansion can become dispersion.
 
 More messages.
 
@@ -58,7 +58,7 @@ Little recognizable value.
 
 # What Nautilus is
 
-Nautilus is a method for continuous value generation through human-agentic collaboration.
+The Nautilus Agentic Framework supports continuous value generation through human-agentic collaboration.
 
 Value is the center.
 
@@ -82,7 +82,7 @@ Integrative value asks:
 
 # Benefits
 
-The Nautilus method helps to:
+The Nautilus Agentic Framework helps to:
 
 - transform effort into recognizable and cumulative value generation;
 - name the movement underway;
@@ -294,21 +294,17 @@ More power to realize.
 
 # Nautilus Family
 
-**Nautilus Agentic Method**
+**Nautilus Agentic Framework**
 
-Conceptual and pedagogical layer.
+Conceptual and pedagogical body.
+
+**Nautilus App**
+
+Practical application experience, delivered as Nautilus for Mirror.
 
 **Nautilus Agentic Protocol**
 
 Formal and portable declaration.
-
-**Nautilus Mirror Extension**
-
-Adaptation to Mirror Mind.
-
-**Nautilus Harness**
-
-Dedicated practice application.
 
 ---
 
@@ -320,7 +316,7 @@ It is not productivity automation.
 
 It is not an abstract ontology without practice.
 
-It is not an application disguised as a method.
+It is not an application disguised as a framework.
 
 Nautilus is a way to conduct continuous value generation through human-agentic collaboration and cumulative coherence.
 
@@ -328,7 +324,7 @@ Nautilus is a way to conduct continuous value generation through human-agentic c
 
 # Canonical cases
 
-The next evolution of the method should press the language against real cases.
+The next evolution of the framework should press the language against real cases.
 
 Two initial cases:
 
@@ -343,7 +339,7 @@ The guiding question remains:
 
 # Synthesis
 
-Nautilus Agentic Method conducts human-agentic work in a spiral.
+Nautilus Agentic Framework conducts human-agentic work in a spiral.
 
 Effort gains form.
 

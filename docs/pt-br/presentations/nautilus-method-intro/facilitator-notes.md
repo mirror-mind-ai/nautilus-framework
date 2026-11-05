@@ -1,10 +1,10 @@
-# Introdução ao Método Nautilus, notas de facilitação
+# Introdução ao Nautilus Agentic Framework, notas de facilitação
 
 ## Intenção
 
-Este deck apresenta Nautilus como método vivo, não como framework finalizado. O objetivo é tornar o método compreensível para pessoas de fora preservando sua natureza experimental.
+Este deck apresenta o Nautilus Agentic Framework como framework vivo, não como sistema finalizado. O objetivo é tornar o framework compreensível para pessoas de fora preservando sua natureza experimental.
 
-A audiência deve sair com três reconhecimentos:
+A audiência deve sair com estes reconhecimentos:
 
 - Nautilus trata de geração de valor com coerência, não de gestão de tarefas.
 - Valor pode ser lido por lentes pragmática e integrativa, não por etapas sequenciais.
@@ -25,7 +25,7 @@ Depois apresente a promessa: esforço vira valor reconhecível.
 
 Em seguida, nomeie a falha comum do trabalho com agentes: aceleração sem continuidade, outputs sem valor e rastros sem integração.
 
-Introduza Nautilus como método para geração contínua de valor por meio de colaboração humano-agêntica.
+Introduza o Nautilus Agentic Framework como framework para geração contínua de valor por meio de colaboração humano-agêntica.
 
 Passe por Território Humano e Mapa Agêntico antes dos conceitos operacionais. Isso ajuda a audiência a entender que agentes trabalham por representações, enquanto valor precisa se tornar disponível no campo humano por meio da Realização.
 

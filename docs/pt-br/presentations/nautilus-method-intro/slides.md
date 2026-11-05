@@ -1,12 +1,12 @@
 ---
-title: Nautilus Agentic Method
-description: Introductory presentation for Nautilus Agentic Method 0.1.0-experimental
+title: Nautilus Agentic Framework
+description: Introductory presentation for Nautilus Agentic Framework 0.1.0-experimental
 lang: pt-BR
 ---
 
 # Nautilus
 
-## Um método para geração contínua de valor por meio de colaboração humano-agêntica
+## Um framework para geração contínua de valor por meio de colaboração humano-agêntica
 
 O trabalho ganha forma, as evidências sustentam o avanço, o impacto é observado e o aprendizado se consolida sem perder coerência.
 
@@ -42,7 +42,7 @@ Pelo movimento em espiral, algo agora existe no mundo.
 
 Agentes ampliam velocidade, volume e capacidade de exploração.
 
-Sem método e linguagem capazes de preservar coerência, essa ampliação pode virar dispersão.
+Sem um framework e uma linguagem capazes de preservar coerência, essa ampliação pode virar dispersão.
 
 Mais mensagens.
 
@@ -58,7 +58,7 @@ Pouco valor reconhecível.
 
 # O que é Nautilus
 
-Nautilus é um método para geração contínua de valor por meio de colaboração humano-agêntica.
+O Nautilus Agentic Framework sustenta a geração contínua de valor por meio de colaboração humano-agêntica.
 
 Valor é o centro.
 
@@ -82,7 +82,7 @@ Valor integrativo pergunta:
 
 # Benefícios
 
-O método Nautilus ajuda a:
+O Nautilus Agentic Framework ajuda a:
 
 - transformar esforço em geração de valor reconhecível e cumulativa;
 - nomear o movimento em curso;
@@ -111,7 +111,7 @@ O náutilo cresce formando novas câmaras.
 
 Cada câmara amplia o organismo sem destruir a forma anterior.
 
-No método, cada giro deve terminar com mais capacidade do que havia no início.
+No framework, cada giro deve terminar com mais capacidade do que havia no início.
 
 **Cada Realização bem integrada aumenta a capacidade de gerar valor na próxima.**
 
@@ -294,21 +294,17 @@ Mais potência para realizar.
 
 # Família Nautilus
 
-**Nautilus Agentic Method**
+**Nautilus Agentic Framework**
 
-Camada conceitual e pedagógica.
+Corpo conceitual e pedagógico.
+
+**Nautilus App**
+
+Experiência prática de aplicação, entregue como Nautilus for Mirror.
 
 **Nautilus Agentic Protocol**
 
 Declaração formal e portável.
-
-**Nautilus Mirror Extension**
-
-Adaptação ao Mirror Mind.
-
-**Nautilus Harness**
-
-Aplicação dedicada de prática.
 
 ---
 
@@ -320,7 +316,7 @@ Não é automação de produtividade.
 
 Não é uma ontologia abstrata sem prática.
 
-Não é um aplicativo disfarçado de método.
+Não é um aplicativo disfarçado de framework.
 
 Nautilus é uma forma de conduzir geração contínua de valor por meio de colaboração humano-agêntica e coerência cumulativa.
 
@@ -328,7 +324,7 @@ Nautilus é uma forma de conduzir geração contínua de valor por meio de colab
 
 # Casos canônicos
 
-A próxima evolução do método deve pressionar a linguagem em casos reais.
+A próxima evolução do framework deve pressionar a linguagem em casos reais.
 
 Dois casos iniciais:
 
@@ -343,7 +339,7 @@ A pergunta-guia permanece:
 
 # Síntese
 
-Nautilus Agentic Method conduz trabalho humano-agêntico em espiral.
+Nautilus Agentic Framework conduz trabalho humano-agêntico em espiral.
 
 O esforço ganha forma.
 
