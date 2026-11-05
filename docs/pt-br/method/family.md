@@ -1,48 +1,45 @@
 # Família Nautilus
 
-A família Nautilus reúne os corpos que permitem que o método exista como linguagem humana, declaração formal, adaptação ao Mirror Mind e experiência dedicada de prática.
+A família Nautilus reúne os três corpos que permitem que a mesma gramática exista como framework humano, experiência prática de aplicação e declaração formal.
 
-A família não é uma coleção de projetos independentes. Ela existe para preservar correspondência entre o que o método significa, o que o protocolo declara, o que o Mirror consegue operar e o que o [Participante](participant.md) vivencia no Harness.
+A família não é uma coleção de projetos independentes. Ela preserva coerência entre o que o framework significa, o que o app torna praticável e o que o protocolo declara, sem colapsar suas responsabilidades distintas.
 
-## Componentes
+## Corpos
 
-| Componente | Função |
-| --- | --- |
-| Nautilus Agentic Method | Camada conceitual e pedagógica, voltada à compreensão e prática humana do método |
-| Nautilus Agentic Protocol | Declaração formal, portável e verificável da gramática Nautilus |
-| Nautilus Mirror Extension | Adaptador e implementação de referência da gramática Nautilus dentro do Mirror Mind |
-| Nautilus Harness | Aplicação dedicada para a experiência prática da gramática Nautilus |
+| Corpo | Nome | Função |
+| --- | --- | --- |
+| Framework | Nautilus Agentic Framework | Corpo conceitual e pedagógico, voltado à compreensão e prática do framework |
+| App | Nautilus App | Experiência prática de aplicação do framework, entregue como Nautilus for Mirror |
+| Protocol | Nautilus Agentic Protocol | Declaração formal, portável e verificável da gramática |
 
-## Nautilus Agentic Method
+## Nautilus Agentic Framework
 
-O Method dá linguagem, sentido e critério humano à prática.
+O Framework dá linguagem, sentido e critério humano à prática.
 
-Ele explica o que [Geração de Valor](value-generation.md), uma [Jornada](journey.md), uma [Missão](mission.md), uma [Entrega](delivery.md), uma [Evidência](evidence.md), uma [Realização](realization.md), um [Impacto](impact.md) e uma [Integração](integration.md) significam para quem usa Nautilus.
+Ele explica o que [Geração de Valor](value-generation.md), uma Jornada, uma Missão, uma Entrega, Evidência, uma [Realização](realization.md), um [Impacto](impact.md) e Integração significam para quem usa Nautilus.
 
-Sua função é impedir que a família se torne apenas técnica. Antes de declarar ou implementar uma forma, o método precisa torná-la compreensível e praticável.
+Sua função é impedir que a família se torne apenas técnica. Antes que uma forma seja declarada ou se torne praticável no app, o framework precisa tornar seu sentido humano compreensível e ensinável.
+
+## Nautilus App
+
+O App é a experiência prática de aplicação do framework. Ele entrega Nautilus for Mirror, onde a gramática compartilhada se torna trabalho situado para Participantes humanos e agênticos.
+
+Sua função é tornar o framework utilizável sem substituir sua ontologia comum. O App possui sua superfície de produto e implementação de runtime.
 
 ## Nautilus Agentic Protocol
 
-O Protocol traduz a linguagem do Method em forma declarativa.
+O Protocol traduz a linguagem do framework em forma declarativa.
 
 Ele define campos, versões, compatibilidade e estruturas reconhecíveis. Sua função é permitir que a gramática seja portável, validável e compartilhável entre implementações.
 
-## Nautilus Mirror Extension
+## Coerência entre os corpos
 
-A Mirror Extension adapta Nautilus ao runtime Mirror Mind.
+Cada corpo fala em um registro diferente, mas todos precisam reconhecer a mesma forma.
 
-Ela é a implementação de referência dentro do Mirror, conectando a gramática Nautilus a jornadas, memória, modos, comandos, superfícies e práticas do ecossistema Mirror.
+Se o Framework nomeia um conceito, o Protocol precisa conseguir declará-lo quando ele se torna formal. Se o Protocol exige um campo, o Framework precisa justificar seu sentido humano. Se o App opera um comportamento, ele precisa permanecer legível dentro da gramática comum sem se tornar a autoridade que a define.
 
-## Nautilus Harness
+Essa coerência é o modo como a família cresce sem perder a forma.
 
-O Harness é a aplicação dedicada de prática.
+## Nota histórica
 
-Ele transforma a gramática Nautilus em experiência direta para Participantes humanos e agênticos. É onde a linguagem do método deve aparecer como condução viva, não como documentação abstrata.
-
-## Correspondência entre componentes
-
-Cada componente fala um registro diferente, mas todos precisam reconhecer a mesma forma.
-
-Se o Method nomeia um conceito, o Protocol precisa conseguir declará-lo quando ele se torna formal. Se o Protocol exige um campo, o Method precisa justificar seu sentido humano. Se a Mirror Extension opera um comportamento, ele precisa existir na gramática. Se o Harness usa uma metáfora experiencial, ela não deve substituir a ontologia comum.
-
-Essa correspondência é o modo como a família cresce sem perder a forma.
+Até novembro de 2026, a família Nautilus nomeava quatro corpos. Nautilus Mirror Extension e Nautilus Harness agora são corpos históricos; o Harness continua como Nautilus App.

@@ -2,32 +2,33 @@
 
 ## Nome
 
-**Nautilus Agentic Method** é o nome da camada conceitual e pedagógica da [família Nautilus](family.md), voltada à compreensão e prática humana do método.
+**Nautilus Agentic Framework** é o nome do corpo conceitual e pedagógico da [família Nautilus](family.md), voltado à compreensão e prática do framework.
 
-**Nautilus** nomeia a família e também a experiência dedicada de aplicação.
+**Nautilus** nomeia a família que coordena Framework, App e Protocol.
 
 ## Versão
 
 ```yaml
-method: Nautilus Agentic Method
+framework: Nautilus Agentic Framework
 method_version: 0.1.0-experimental
 grammar_status: experimental
 ```
 
-Esta versão é experimental porque ainda não pretende estabilizar a ontologia inteira. Ela estabiliza uma primeira superfície de linguagem para permitir leitura, experimentação e reconhecimento comum entre os componentes da família Nautilus.
+Esta versão é experimental porque ainda não pretende estabilizar a ontologia inteira. Ela estabiliza uma primeira superfície de linguagem para permitir leitura, experimentação e reconhecimento comum entre os corpos da família Nautilus.
+
+`method_version` permanece como o campo de compatibilidade usado pelo Protocol. Ele não afirma que o Framework ainda se chama método.
 
 ## Família nominal
 
-A [família Nautilus](family.md) possui quatro corpos:
+A [família Nautilus](family.md) possui três corpos:
 
 | Corpo | Nome | Função |
 | --- | --- | --- |
-| Method | Nautilus Agentic Method | Linguagem humana, conceitual e pedagógica |
+| Framework | Nautilus Agentic Framework | Linguagem humana, conceitual e pedagógica |
+| App | Nautilus App | Experiência prática de aplicação, entregue como Nautilus for Mirror |
 | Protocol | Nautilus Agentic Protocol | Declaração formal, portável e verificável da gramática |
-| Mirror Extension | Nautilus Mirror Extension | Adaptador e implementação de referência no Mirror Mind |
-| Harness | Nautilus Harness | Aplicação dedicada para praticar Nautilus |
 
-A família existe para que a mesma gramática possa ser compreendida por humanos, declarada formalmente, adaptada ao Mirror e praticada numa experiência própria.
+A família existe para que a mesma gramática possa ser compreendida por humanos, se tornar praticável numa experiência de aplicação e ser declarada formalmente.
 
 ## Campos de reconhecimento
 
@@ -48,10 +49,10 @@ Esses campos não tornam os corpos iguais. Eles preservam correspondência.
 
 [`Participante`](participant.md) é o termo canônico neutro para quem participa da gramática. Um Participante pode ter natureza humana ou agêntica.
 
-`Nauta` não é uma categoria canônica do método nesta versão.
+`Nauta` não é uma categoria canônica do framework nesta versão.
 
-Termos como Tripulação, Tripulante ou Navegante podem inspirar linguagem experiencial no Harness, mas não substituem a ontologia. A metáfora náutica orienta a sensibilidade do método. Ela não deve colonizar todos os conceitos.
+Termos como Tripulação, Tripulante ou Navegante podem inspirar linguagem experiencial no App, mas não substituem a ontologia. A metáfora náutica orienta a sensibilidade do framework. Ela não deve colonizar todos os conceitos.
 
 ## Fronteira
 
-Esta identidade não define execução, persistência, papéis, autoridade, [evidências](evidence.md) completas ou [integração](integration.md) operacional. Esses elementos aparecem como horizonte da gramática, mas entram apenas quando uma fatia futura conseguir sustentá-los coerentemente nos quatro corpos.
+Esta identidade não define execução, persistência, papéis, autoridade, [evidências](evidence.md) completas ou [integração](integration.md) operacional. Esses elementos aparecem como horizonte da gramática, mas entram apenas quando uma fatia futura conseguir sustentá-los coerentemente nos três corpos.
