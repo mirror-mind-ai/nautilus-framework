@@ -1,21 +1,22 @@
 {
   "schema_version": 1,
-  "journey": "nautilus",
-  "name": "Nautilus",
+  "journey": "nautilus-agentic-method",
+  "name": "Nautilus Agentic Framework",
   "status": "active",
-  "parent_journey": "mirror-mind",
+  "parent_journey": "nautilus",
   "hierarchy": [
     "vida-tecnica",
     "ia-agentica",
     "mirror-mind",
-    "nautilus"
+    "nautilus",
+    "nautilus-agentic-method"
   ],
-  "journey_home": "/Users/alissonvale/.mirror-journeys/vida-tecnica/ia-agentica/mirror-mind-ai/nautilus",
+  "journey_home": "/Users/alissonvale/.mirror-journeys/vida-tecnica/ia-agentica/mirror-mind-ai/nautilus/nautilus-framework",
   "workspace_state": "materialized",
   "materialization_strategy": "existing-repository-transfer",
   "source_project_path": "/Users/alissonvale/.mirror-journeys/vida-criativa/nautilus/agentic-method",
   "source_project_path_resolved": "/Users/alissonvale/.mirror-journeys/vida-criativa/nautilus/agentic-method",
-  "target_project_path": "/Users/alissonvale/.mirror-journeys/vida-tecnica/ia-agentica/mirror-mind-ai/nautilus",
+  "target_project_path": "/Users/alissonvale/.mirror-journeys/vida-tecnica/ia-agentica/mirror-mind-ai/nautilus/nautilus-framework",
   "project_path_update_policy": "materialized",
   "lineage": {
     "predecessor_journey": "nautilus-agentic-method",
