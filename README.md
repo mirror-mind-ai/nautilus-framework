@@ -1,12 +1,12 @@
 # Nautilus
 
-Nautilus is a method for agentic growth, realization and coherent expansion.
+The Nautilus Agentic Framework supports agentic growth, realization and coherent expansion.
 
 It gives human and agentic Participants a shared grammar for working in Journeys, formulating Missions, producing Deliveries, recognizing Realizations through Evidence and integrating learning without losing form.
 
 ## Documentation
 
-The method source lives in:
+The framework source lives in:
 
 ```text
 docs/method/
