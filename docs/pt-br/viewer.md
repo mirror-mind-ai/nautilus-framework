@@ -1,6 +1,6 @@
 # Markdown viewer
 
-A documentação do Nautilus Agentic Method usa MkDocs Material como viewer navegável.
+A documentação do Nautilus Agentic Framework usa MkDocs Material como viewer navegável.
 
 ## Rodar localmente
 
@@ -29,4 +29,4 @@ O site será gerado em `site/`.
 
 ## Convenção
 
-Os arquivos Markdown continuam sendo a fonte de verdade. O viewer apenas oferece navegação, busca e leitura confortável. Quando o método mudar, atualize os documentos em `docs/method/` e deixe apresentações e casos canônicos coerentes com eles.
+Os arquivos Markdown continuam sendo a fonte de verdade. O viewer apenas oferece navegação, busca e leitura confortável. Quando o framework mudar, atualize os documentos em `docs/method/` e deixe apresentações e casos canônicos coerentes com eles.

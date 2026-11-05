@@ -2,7 +2,7 @@
 
 Canonical cases exist to press the Nautilus grammar against real situations.
 
-They are not decorative examples. They help perceive whether the language simplifies work, reveals gaps, and preserves recognizability between Method, Protocol, Mirror Extension, and Harness.
+They are not decorative examples. They help perceive whether the language simplifies work, reveals gaps, and preserves recognizability between Framework, App, and Protocol.
 
 ## Initial cases
 

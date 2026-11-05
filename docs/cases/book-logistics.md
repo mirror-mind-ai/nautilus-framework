@@ -39,7 +39,7 @@ mission:
 | What directed intention is being named? | Organize book logistics |
 | Why does this intention matter now? | Because there is a practical [delivery](../method/delivery.md) that needs to gain form before action |
 | Does the Mission remain in formulation, without hidden execution? | Partially. The description needs revision so it does not anticipate a plan |
-| Do the four bodies recognize the same fields? | Yes, for the minimal Mission |
+| Do the three bodies recognize the same fields? | Yes, for the minimal Mission |
 
 ## Expected Delivery
 

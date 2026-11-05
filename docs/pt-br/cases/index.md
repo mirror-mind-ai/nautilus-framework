@@ -2,7 +2,7 @@
 
 Casos canônicos existem para pressionar a gramática Nautilus contra situações reais.
 
-Eles não são exemplos decorativos. Eles ajudam a perceber se a linguagem simplifica o trabalho, revela lacunas e preserva correspondência entre Method, Protocol, Mirror Extension e Harness.
+Eles não são exemplos decorativos. Eles ajudam a perceber se a linguagem simplifica o trabalho, revela lacunas e preserva correspondência entre Framework, App e Protocol.
 
 ## Casos iniciais
 

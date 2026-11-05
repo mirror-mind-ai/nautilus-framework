@@ -8,7 +8,7 @@ Retrospectivo.
 
 Reconstruir uma [realização](../method/realization.md) já ocorrida para observar se a gramática Nautilus consegue reconhecer intenção, [entrega](../method/delivery.md), [evidência](../method/evidence.md), realização e [integração](../method/integration.md) depois do fato.
 
-Este caso é útil porque pressiona o método contra trabalho real já atravessado, sem depender de uma formulação perfeita feita antes da ação.
+Este caso é útil porque pressiona o framework contra trabalho real já atravessado, sem depender de uma formulação perfeita feita antes da ação.
 
 ## Estado
 
@@ -39,7 +39,7 @@ mission:
 | Que intenção dirigida está sendo nomeada? | Reconstruir o retry do assessment como [Missão](../method/mission.md) Nautilus |
 | Por que essa intenção importa agora? | Porque testa a gramática contra um caso real já vivido |
 | A Missão continua em formulação, sem execução escondida? | Sim, nesta reconstrução o objetivo é formular e analisar |
-| Os quatro corpos reconhecem os mesmos campos? | Sim, para a Missão mínima |
+| Os três corpos reconhecem os mesmos campos? | Sim, para a Missão mínima |
 
 ## Entrega observada
 
@@ -55,7 +55,7 @@ A preencher com o que efetivamente se tornou real depois do retry.
 
 ## Integração possível
 
-A preencher com o aprendizado que deveria ser preservado na próxima câmara do método.
+A preencher com o aprendizado que deveria ser preservado na próxima câmara do framework.
 
 ## Lacunas reveladas
 

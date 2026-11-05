@@ -39,7 +39,7 @@ mission:
 | Que intenção dirigida está sendo nomeada? | Organizar a logística dos livros |
 | Por que essa intenção importa agora? | Porque há uma [entrega](../method/delivery.md) prática que precisa ganhar forma antes da ação |
 | A Missão continua em formulação, sem execução escondida? | Parcialmente. A descrição precisa ser revisada para não antecipar plano |
-| Os quatro corpos reconhecem os mesmos campos? | Sim, para a Missão mínima |
+| Os três corpos reconhecem os mesmos campos? | Sim, para a Missão mínima |
 
 ## Entrega esperada
 
