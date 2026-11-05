@@ -1,5 +1,5 @@
-site_name: Nautilus
-site_description: A method for continuous value generation through human-agentic collaboration
+site_name: Nautilus Agentic Framework
+site_description: A framework for continuous value generation through human-agentic collaboration
 site_url: ""
 use_directory_urls: true
 
@@ -23,7 +23,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Method:
+  - Framework:
       - Overview: method/index.md
       - Value Generation: method/value-generation.md
       - Aristotelian influences: method/aristotelian-influences.md

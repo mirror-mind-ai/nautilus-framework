@@ -1,14 +1,14 @@
 # Visão geral
 
-Nautilus é um método para [geração de valor](value-generation.md) contínua por meio de colaboração humano-agêntica: o trabalho ganha forma por meio da [realização](realization.md), as evidências sustentam o avanço, o impacto é observado e o aprendizado se consolida sem perder coerência.
+O Nautilus Agentic Framework sustenta a [geração de valor](value-generation.md) contínua por meio de colaboração humano-agêntica: o trabalho ganha forma por meio da [realização](realization.md), as evidências sustentam o avanço, o impacto é observado e o aprendizado se consolida sem perder coerência.
 
-Ele é a camada conceitual e pedagógica da [família Nautilus](family.md), voltada à compreensão e prática do método. Existe para dar linguagem a um tipo de trabalho que está se tornando cada vez mais comum: humanos e agentes atravessando uma [Jornada](journey.md) juntos, nomeando o valor buscado, formulando intenções, produzindo entregas, reconhecendo realizações por evidências, distinguindo [Impacto](impact.md) daquilo que está sob controle da Jornada e preservando aprendizado para o próximo movimento.
+Ele é a camada conceitual e pedagógica da [família Nautilus](family.md), voltada à compreensão e prática do framework. Existe para dar linguagem a um tipo de trabalho que está se tornando cada vez mais comum: humanos e agentes atravessando uma [Jornada](journey.md) juntos, nomeando o valor buscado, formulando intenções, produzindo entregas, reconhecendo realizações por evidências, distinguindo [Impacto](impact.md) daquilo que está sob controle da Jornada e preservando aprendizado para o próximo movimento.
 
-Agentes podem ampliar velocidade, volume e capacidade de exploração. Mas, sem um método e uma linguagem capazes de preservar coerência, essa ampliação tende a produzir dispersão: mais mensagens, mais artefatos, mais tarefas, mais registros, sem necessariamente produzir valor reconhecível, nem dar suporte ao aumento da [inteligência de realização](realization-intelligence.md) nas próximas sessões de trabalho. Nautilus nasce para organizar a passagem entre intenção de valor e realização sem reduzir o trabalho vivo a uma fila de tarefas.
+Agentes podem ampliar velocidade, volume e capacidade de exploração. Mas, sem um framework e uma linguagem capazes de preservar coerência, essa ampliação tende a produzir dispersão: mais mensagens, mais artefatos, mais tarefas, mais registros, sem necessariamente produzir valor reconhecível, nem dar suporte ao aumento da [inteligência de realização](realization-intelligence.md) nas próximas sessões de trabalho. Nautilus nasce para organizar a passagem entre intenção de valor e realização sem reduzir o trabalho vivo a uma fila de tarefas.
 
 ## Benefícios
 
-Os benefícios do método Nautilus são:
+Os benefícios do Nautilus Agentic Framework são:
 
 - transformar esforço em [geração de valor](value-generation.md) reconhecível e cumulativa;
 - sair do acúmulo disperso de conversas, tarefas e artefatos para uma forma mais clara de trabalho;
@@ -31,7 +31,7 @@ Quando essa geração de valor é cumulativa, cada movimento alimenta o próximo
 Crescer sem perder a forma significa que cada giro da espiral termina com mais capacidade do que havia no início. A jornada não apenas conclui uma Entrega; ela incorpora uma nova possibilidade de ação. O próximo movimento começa com mais linguagem, mais critério, mais memória e mais potência para realizar. Esse é o ganho cumulativo: cada [Realização](realization.md) bem integrada aumenta a capacidade de realizar a próxima.
 
 !!! success "O Grande Benefício"
-    O método transforma trabalho em geração de valor continuada, onde cada Realização reconhecida se torna base, linguagem e capacidade para a próxima.
+    O framework transforma trabalho em geração de valor continuada, onde cada Realização reconhecida se torna base, linguagem e capacidade para a próxima.
 
 ## A metáfora operacional
 
@@ -39,21 +39,21 @@ A imagem do náutilo importa porque mostra um tipo específico de crescimento.
 
 O organismo não cresce abandonando sua forma anterior. Ele cria uma nova câmara. A câmara nova amplia espaço de vida, mas permanece integrada à estrutura que já existia.
 
-No método, cada nova capacidade deve funcionar assim. Uma nova prática, conceito, campo, protocolo ou ferramenta só deve entrar quando amplia a gramática sem destruir sua coerência.
+No framework, cada nova capacidade deve funcionar assim. Uma nova prática, conceito, campo, protocolo ou ferramenta só deve entrar quando amplia a gramática sem destruir sua coerência.
 
-## O que o método protege
+## O que o framework protege
 
 Nautilus protege a relação entre valor, intenção, trabalho, evidência, reconhecimento, impacto e aprendizado.
 
 Uma intenção sem forma vira desejo solto. Uma entrega sem evidência vira atividade difícil de reconhecer. Uma realização sem integração vira episódio isolado. Uma integração sem nova capacidade vira registro morto.
 
-O método procura manter esses elementos em relação.
+O framework procura manter esses elementos em relação.
 
 ## Próxima leitura
 
 Depois desta visão geral, leia o núcleo de valor:
 
-- [Geração de Valor](value-generation.md), para entender o propósito central do método;
+- [Geração de Valor](value-generation.md), para entender o propósito central do framework;
 - [Realização](realization.md), para entender o meio disciplinado de gerar valor;
 - [Território Humano](human-territory.md), para entender onde uma Realização precisa tornar valor disponível;
 - [Evidência](evidence.md), para entender como o avanço se torna confiável;
@@ -65,4 +65,4 @@ Em seguida, leia o [Arco Conceitual](conceptual-arc.md) e atravesse seus conceit
 
 Depois avance para o crescimento em espiral: [Dinâmica do ciclo](realization-cycle.md), [Continuidade confiável](reliable-continuity.md) e [Inteligência de realização](realization-intelligence.md).
 
-Por fim, use [Gramática](grammar.md), [Teste de Inteireza](integrity-test.md), [Influências aristotélicas](aristotelian-influences.md), [Família Nautilus](family.md) e [Identidade](identity.md) para aprofundar a estrutura do método.
+Por fim, use [Gramática](grammar.md), [Teste de Inteireza](integrity-test.md), [Influências aristotélicas](aristotelian-influences.md), [Família Nautilus](family.md) e [Identidade](identity.md) para aprofundar a estrutura do framework.
